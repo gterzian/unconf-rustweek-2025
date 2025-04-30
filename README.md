@@ -1,4 +1,4 @@
-# RustWeek Unconference for Rust GUI / App Dev 2025
+# RustWeek Unconference for the Browser Summit 2025
 A space to organize the Rust GUI and App Dev unconference that's colocated with RustWeek 2025.
 
 ## Quick Info
@@ -8,10 +8,9 @@ A space to organize the Rust GUI and App Dev unconference that's colocated with 
 * [Click here](https://docs.google.com/document/d/177DV1w3Q0mF7N17y8ZD3uij_mLGGlrTaOnrVw5we2uc/edit?usp=sharing) to see the notes from last year's unconference
 
 ## Using this repo
-* See the [Issue tracker](https://github.com/areweappyet/unconf-rustweek-2025/issues) for existing suggested topics.
+* See issues for existing suggested topics.
   * To propose a new topic, open a new issue.
 * Please vote 👍 on each `[Session]` issue that you would like to partcipate in.
-  * Feel free to vote 👎 on any issues you think do not belong at this unconf.
   * Feel free to leave comments anywhere.
 * If you would like to lead/moderate a session, kindly assign yourself to that session's issue.
 
