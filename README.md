@@ -17,3 +17,5 @@ A space to organize the Rust GUI and App Dev unconference that's colocated with 
 ## Tentative Schedule
 
 9:30am - 17:00 (5:00pm), lunch TBD.
+
+- 10 am https://github.com/gterzian/unconf-rustweek-2025/issues/1
