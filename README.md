@@ -9,8 +9,6 @@ A space to organize the Browser Summit unconference that's colocated with RustWe
 ## Using this repo
 * See issues for existing suggested topics.
   * To propose a new topic, open a new issue.
-* Please vote 👍 on each `[Session]` issue that you would like to partcipate in.
-  * Feel free to leave comments anywhere.
 * If you would like to lead/moderate a session, kindly assign yourself to that session's issue.
 
 ## Tentative Schedule
