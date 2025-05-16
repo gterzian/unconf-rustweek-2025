@@ -15,8 +15,8 @@ A space to organize the Browser Summit unconference that's colocated with RustWe
 
 10:30am - 17:00 (5:00pm)
 
-- 10.30 am [The architecture of Web Standards](https://github.com/gterzian/unconf-rustweek-2025/issues/1)
-- 11 am [Challenges of the mobile Web, and potential solutions from an engine design perspective](https://github.com/gterzian/unconf-rustweek-2025/issues/5)
-- 12 am [Application Profiles for More Efficient, Diverse Web Engines](https://github.com/gterzian/unconf-rustweek-2025/issues/3)
+- 11: 30 [The architecture of Web Standards](https://github.com/gterzian/unconf-rustweek-2025/issues/1)
+- 12 [Challenges of the mobile Web, and potential solutions from an engine design perspective](https://github.com/gterzian/unconf-rustweek-2025/issues/5)
+- 12: 30 [Application Profiles for More Efficient, Diverse Web Engines](https://github.com/gterzian/unconf-rustweek-2025/issues/3)
 - 1 pm lunch
 - 2 pm [Cyber Resilience Act (CRA) and Vertical Standardization](https://github.com/gterzian/unconf-rustweek-2025/issues/4)
