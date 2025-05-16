@@ -13,7 +13,7 @@ A space to organize the Browser Summit unconference that's colocated with RustWe
 
 ## Tentative Schedule
 
-10:30am - 17:00 (5:00pm)
+11:30am - 15:30
 
 - 11: 30 [The architecture of Web Standards](https://github.com/gterzian/unconf-rustweek-2025/issues/1)
 - 12 [Challenges of the mobile Web, and potential solutions from an engine design perspective](https://github.com/gterzian/unconf-rustweek-2025/issues/5)
