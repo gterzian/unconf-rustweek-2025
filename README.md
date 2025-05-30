@@ -23,4 +23,8 @@ A space to organize the Browser Summit unconference that's colocated with RustWe
 
 ## Takeaways
 
+- Most of the SuperApps analyzed by the W3C WG are based on WebViews adapted to the specific functionalities supported by their MiniApps, including limited JS, specific _HTMLish_ domain languages, and a subset of CSS. For instance, Tencent (the most advanced MiniApp platform) has its own WebView for all the platforms. Accessibility is still a challenge in most of the implementations.
+
+- Profiles of standards could be interesting in cases like media devices, e-books, and developing simple UIs for constraint IoT devices. It it recommended to follow up the topic with Blitz, Servo, and Tauri.   
+- The [discussion to re-use temporal as a modularity example](https://github.com/gterzian/unconf-rustweek-2025/issues/7) has been [opened in Servo](https://github.com/servo/servo/issues/37150). 
 
