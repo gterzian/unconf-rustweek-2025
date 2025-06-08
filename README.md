@@ -28,3 +28,4 @@ A space to organize the Browser Summit unconference that's colocated with RustWe
 - Profiles of standards could be interesting in cases like media devices, e-books, and developing simple UIs for constraint IoT devices. It it recommended to follow up the topic with Blitz, Servo, and Tauri.   
 - The [discussion to re-use temporal as a modularity example](https://github.com/gterzian/unconf-rustweek-2025/issues/7) has been [opened in Servo](https://github.com/servo/servo/issues/37150). 
 
+- The current fragmented web page loading style, along with the rendering and logic threads' mutual exclusion mechanism, weakens the user experience. Additionally, web pages still lack mobile-specific features. Therefore, we advocate for creating a new web engine designed with a mobile-first approach and packaged for distribution and execution. This would also help standardize the mini-app scenario.
